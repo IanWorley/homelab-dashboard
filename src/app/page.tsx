@@ -5,11 +5,11 @@ import { ServiceFlexBox } from "./(components)/service";
 
 export default function Home() {
   return (
-    <main className="flex flex-col h-screen justify-between">
+    <main className="flex flex-col min-h-screen ">
       <Providers>
         <NavMenu />
         <ServiceFlexBox />
-        <NewRelease />
+        {/* <NewRelease /> */}
       </Providers>
     </main>
   );
