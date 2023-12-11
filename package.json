@@ -20,7 +20,7 @@
     "redis": "^4.6.10"
   },
   "devDependencies": {
-    "@types/node": "^20.10.3",
+    "@types/node": "^20.10.4",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10",
